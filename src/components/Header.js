@@ -3,7 +3,7 @@ import ThemeSwitcher from './ThemeSwitcher'
 
 const Header = () => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-300">
             <div className="navbar-start">
                 <span className="btn btn-ghost normal-case text-xl">ToDo</span>
             </div>
